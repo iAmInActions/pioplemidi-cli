@@ -1,0 +1,8 @@
+/home/gregor/Projekte/libADLMIDI/cmake/CMakeFiles/install/strip.dir
+/home/gregor/Projekte/libADLMIDI/cmake/CMakeFiles/install/local.dir
+/home/gregor/Projekte/libADLMIDI/cmake/CMakeFiles/install.dir
+/home/gregor/Projekte/libADLMIDI/cmake/CMakeFiles/list_install_components.dir
+/home/gregor/Projekte/libADLMIDI/cmake/CMakeFiles/edit_cache.dir
+/home/gregor/Projekte/libADLMIDI/cmake/CMakeFiles/ADLMIDI_version_check.dir
+/home/gregor/Projekte/libADLMIDI/cmake/CMakeFiles/rebuild_cache.dir
+/home/gregor/Projekte/libADLMIDI/cmake/CMakeFiles/ADLMIDI_static.dir
